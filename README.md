@@ -50,8 +50,8 @@ jupyter>=1.0.0  # for notebook version
 
 ```
 credit-card-fraud-detection/
-│
-├── ml_project.py              # Main Python script
+│__ Credit-Card-Fraud-analysis # Main implementation file 
+├── Credit-Card-Fraud.py              # Main Python script
 ├── creditcard.csv             # Dataset (download separately)
 ├── README.md                  # Project documentation
 └── requirements.txt           # Dependencies
